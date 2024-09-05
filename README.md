@@ -10,6 +10,7 @@ cd React-Todo-list
 ### 1. Create a Dockerfile.
 
    *a. Create a docker image using Docker command.
+   
    *b. Push the image into docker hub.
 
 
@@ -32,10 +33,18 @@ cd React-Todo-list
 
 
 
-*f. Verify Deployment*
+*d. Verify Deployment*
 
 ### 3. To ensure your application is running and accessible, use.
 
 
 
 ### 4. Find the external IP of your service and navigate to it in your browser.
+
+
+
+
+
+
+
+
