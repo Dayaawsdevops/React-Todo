@@ -1,19 +1,22 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: react-todo-app
+  name: react-app
+  namespace: default
 spec:
   replicas: 1
   selector:
     matchLabels:
-      app: react-todo-app
+      app: react-app
   template:
     metadata:
       labels:
-        app: react-todo-app
+        app: react-app
     spec:
       containers:
-      - name: react-todo-app
-        image: react-todo-app
+      - name: react-app
+        image: harish126/todo-app:v1
         ports:
         - containerPort: 3000
+      imagePullSecrets:
+      - name: myregistrykey
