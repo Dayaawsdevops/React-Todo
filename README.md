@@ -7,7 +7,10 @@ cd React-Todo-list
 
 ### STEPS
 
-# Create a Dockerfile*
+### 1. Create a Dockerfile.
+
+   *a. Create a docker image using Docker command.
+   *b. Push the image into docker hub.
 
 
 
@@ -16,28 +19,23 @@ cd React-Todo-list
 
 
 
-*c. Create a Kubernetes Deployment Configuration*
+*a. Create a Kubernetes Deployment Configuration*
 
 
 
-*d. Create a Kubernetes Service Configuration*
+*b. Create a Kubernetes Service Configuration*
 
 
 
-*e. Apply the Configurations*
+*c. Apply the Configurations*
 
-bash
-microk8s kubectl apply -f deployment.yaml
-microk8s kubectl apply -f service.yaml
+
 
 
 *f. Verify Deployment*
 
-To ensure your application is running and accessible, use:
-
-bash
-microk8s kubectl get pods
-microk8s kubectl get services
+### 3. To ensure your application is running and accessible, use.
 
 
-Find the external IP of your service and navigate to it in your browser.
+
+### 4. Find the external IP of your service and navigate to it in your browser.
