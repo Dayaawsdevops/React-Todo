@@ -39,7 +39,7 @@ cd React-Todo-list
 
 
 
-### 4. Find the external IP of your service and navigate to it in your browser.
+### 4. Find the nodeport IP of your service and navigate to it in your browser.
 
 
 
