@@ -1,5 +1,5 @@
 
-*a. Clone the React Application Repository*
+Clone the React Application Repository*
 
 bash
 git clone https://github.com/MaheshRautrao/React-Todo-list
