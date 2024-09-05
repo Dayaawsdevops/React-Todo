@@ -1,4 +1,3 @@
-![Image1](https://github.com/user-attachments/assets/b4924aad-e994-41d7-8452-eb3af5c9ab50)
 Clone the React Application Repository*
 
 bash
