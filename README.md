@@ -5,8 +5,9 @@ bash
 git clone https://github.com/MaheshRautrao/React-Todo-list
 cd React-Todo-list
 
+### STEPS
 
-*b. Create a Dockerfile*
+# Create a Dockerfile*
 
 
 
