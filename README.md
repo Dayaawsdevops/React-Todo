@@ -14,7 +14,7 @@ cd React-Todo-list
 
 
 
-### 2. Deploy the Docker Image to Kubernetes
+### 2. Deploy the Docker Image to Kubernetes Cluster
 
 
 
