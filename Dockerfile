@@ -1,4 +1,4 @@
-FROM node:18
+FROM node:16
 
 WORKDIR /app
 
@@ -10,8 +10,6 @@ COPY . .
 
 RUN npm run build
 
-ENV PORT=3000
+CMD ["npx", "serve", "-s", "build"]
 
 EXPOSE 3000
-
-CMD ["npm", "start"]
