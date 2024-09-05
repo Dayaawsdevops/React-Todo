@@ -1,4 +1,4 @@
-
+![Image1](https://github.com/user-attachments/assets/b4924aad-e994-41d7-8452-eb3af5c9ab50)
 Clone the React Application Repository*
 
 bash
@@ -40,6 +40,14 @@ cd React-Todo-list
 
 
 ### 4. Find the nodeport IP of your service and navigate to it in your browser.
+
+### SCREEN SHOTS
+
+
+
+![Image1](https://github.com/user-attachments/assets/955ef91c-e24a-41f8-9e9e-80003b356514)
+
+
 
 
 
